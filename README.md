@@ -24,6 +24,4 @@ Participating in the MONUSEG2018 challenge provided invaluable experience and in
 
 For additional details and access to the challenge dataset, please visit the official [MONUSEG2018 Challenge website](https://example.com/monuseg2018).
 
----
 
-*Disclaimer: This report was crafted based on my understanding and expertise as of September 2021. Refer to the official MONUSEG2018 Challenge website for the latest updates and information.*
